@@ -1,2 +1,4 @@
 # latihan-branch
-teks sampel yang berbeda 
+**random quotes**
+- Comfort kills growth
+- Uncertainty is an uncomfortable position. But certainty is an absurd one.
