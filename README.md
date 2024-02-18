@@ -1,2 +1,2 @@
 # latihan-branch
-testing perubahan di README.md
+teks sampel yang berbeda 
